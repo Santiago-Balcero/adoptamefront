@@ -1,6 +1,10 @@
-const url = "http://localhost:8080/adoptame/usuarios"
-const url2 = "http://localhost:8080/adoptame/mascotas"
-const url3 = "http://localhost:8080/adoptame/adopcion"
+// const url = "http://localhost:8080/adoptame/usuarios"
+// const url2 = "http://localhost:8080/adoptame/mascotas"
+// const url3 = "http://localhost:8080/adoptame/adopcion"
+
+const url = "https://adoptameproject.herokuapp.com/adoptame/usuarios"
+const url2 = "https://adoptameproject.herokuapp.com/adoptame/mascotas"
+const url3 = "https://adoptameproject.herokuapp.com/adoptame/adopcion"
 
 function mostrarPerfil(usuario) {
     const section = document.getElementById('profile-card')

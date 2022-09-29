@@ -1,6 +1,9 @@
-const url = "http://localhost:8080/adoptame/mascotas"
-const url2 = "http://localhost:8080/adoptame/adopcion"
-const url3 = "http://localhost:8080/adoptame/usuarios"
+// const url = "http://localhost:8080/adoptame/mascotas"
+// const url2 = "http://localhost:8080/adoptame/adopcion"
+// const url3 = "http://localhost:8080/adoptame/usuarios"
+const url = "https://adoptameproject.herokuapp.com/adoptame/mascotas"
+const url2 = "https://adoptameproject.herokuapp.com/adoptame/adopcion"
+const url3 = "https://adoptameproject.herokuapp.com/adoptame/usuarios"
 
 let ADOPCION = false
 

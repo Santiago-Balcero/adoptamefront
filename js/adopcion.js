@@ -1,4 +1,5 @@
-const url = "http://localhost:8080/adoptame/mascotas"
+// const url = "http://localhost:8080/adoptame/mascotas"
+const url = "https://adoptameproject.herokuapp.com/adoptame/mascotas"
 
 function mostrarCiudades(ciudades){
     const section = document.getElementById('ciudad-input')
